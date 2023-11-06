@@ -6,7 +6,7 @@ O repositório é o projeto de uma Landing Page, construída apenas com HTML e C
 
 ## Demonstração
 
-<img src"/assets/img.png"/>
+<img src="/assets/img.png"/>
 
 
 ## Referência
